@@ -275,31 +275,25 @@
 }
 
 .u-section-4 .u-map-1 {
-  width: calc(((100% - 1140px) / 2) + 1264px);
-  left: 0;
+  width: 100%;
 }
 
 @media (max-width: 1199px) {
   .u-section-4 .u-map-1 {
-    width: 940px;
-    left: 50px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-map-1 {
-    width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-4 .u-map-1 {
-    width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-map-1 {
-    width: 340px;
   }
 }
