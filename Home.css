@@ -1317,7 +1317,6 @@
   height: auto;
   margin-top: 0;
   margin-bottom: 0;
-  width: calc(((100% - 1140px) / 2) + 1264px);
 }
 
 .u-section-8 .u-carousel-indicators-1 {
@@ -1602,7 +1601,6 @@
 }
 
 .u-section-8 .u-image-13 {
-  margin-bottom: 858px;
   background-image: linear-gradient(0deg, rgba(41,42,51,0.75), rgba(41,42,51,0.75)), url("images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg");
   background-position: 50% 50%;
 }
@@ -1626,7 +1624,7 @@
 
 .u-section-8 .u-text-18 {
   font-size: 1rem;
-  margin: 35px 223px 0;
+  margin: 35px 0 0 0;
 }
 
 .u-section-8 .u-list-4 {
@@ -1915,8 +1913,6 @@
 
   .u-section-8 .u-text-7 {
     width: auto;
-    margin-left: 82px;
-    margin-right: 82px;
   }
 
   .u-section-8 .u-list-2 {
@@ -2091,8 +2087,6 @@
 
   .u-section-8 .u-text-18 {
     margin-top: 30px;
-    margin-right: 185px;
-    margin-left: 50px;
   }
 
   .u-section-8 .u-list-4 {
@@ -2164,8 +2158,6 @@
   .u-section-8 .u-text-7 {
     width: 340px;
     margin-top: 10px;
-    margin-right: 185px;
-    margin-left: 50px;
   }
 
   .u-section-8 .u-text-8 {
@@ -2191,8 +2183,6 @@
 
   .u-section-8 .u-text-12 {
     width: 340px;
-    margin-right: 165px;
-    margin-left: 50px;
   }
 
   .u-section-8 .u-text-13 {
@@ -2220,20 +2210,12 @@
     margin-right: 14px;
   }
 
-  .u-section-8 .u-text-16 {
-    margin-right: -676px;
-  }
-
   .u-section-8 .u-text-17 {
-    margin-top: -521px;
-    margin-right: 161px;
-    margin-left: 50px;
+    margin-top: 6px;
   }
 
   .u-section-8 .u-text-18 {
-    width: 340px;
     font-size: 0.875rem;
-    margin-right: 161px;
   }
 
   .u-section-8 .u-list-4 {
